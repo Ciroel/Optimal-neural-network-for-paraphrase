@@ -1,0 +1,1 @@
+Scientific article devoted to bayesian neural networks in paraphrase detection and written in collaboration with V. V. Strijov and O. Yu. Bakhteev and accepted for publication in “Informatics and Applications” scientific journal.
